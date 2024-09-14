@@ -48,17 +48,16 @@ html,body{
     font-weight:540;
     color:#666;
 }
-.left-top-right{
+.left-top-right h6{
     display:none;
 }
 .left-middle{
     
     grid-column:1/3;
-    padding:10px;
-    padding-left:50px;
+    padding:0px 30px; 
     /* background-color:lightgreen; */
     
-}
+} 
 .left-middle h1{
     font-size:5.8vw;
     font-weight:500;
