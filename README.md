@@ -34,4 +34,5 @@ This project is licensed under the MIT License. See the [](LICENSE) file for det
 ## Contact
 
 For any questions or feedback, please contact [Srv2k21Codex](Srv2k21gce@gmail.com).
+Take a look of above design: https://srv2k21codex.github.io/Fashion_proj_Grid/
 
